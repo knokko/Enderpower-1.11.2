@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "enderpower:blocks/gee_panel_top",
+        "bottom": "enderpower:blocks/gee_panel_bottom",
+        "side": "enderpower:blocks/gee_panel_side"
+    }
+}

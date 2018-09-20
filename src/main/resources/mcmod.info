@@ -1,0 +1,16 @@
+[
+{
+  "modid": "enderpower",
+  "name": "Enderpower",
+  "description": "A mod about magic.",
+  "version": "1.11.2.1",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "The Forge and FML guys and knokko",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

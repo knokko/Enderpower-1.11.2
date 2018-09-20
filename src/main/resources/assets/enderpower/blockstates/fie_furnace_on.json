@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "enderpower:fie_furnace_on" },
+        "facing=south": { "model": "enderpower:fie_furnace_on", "y": 180 },
+        "facing=west":  { "model": "enderpower:fie_furnace_on", "y": 270 },
+        "facing=east":  { "model": "enderpower:fie_furnace_on", "y": 90 }
+    }
+}

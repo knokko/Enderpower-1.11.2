@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "top": "enderpower:blocks/ender_panel_top",
+        "bottom": "enderpower:blocks/ender_panel_bottom",
+        "side": "enderpower:blocks/ender_panel_side"
+    }
+}

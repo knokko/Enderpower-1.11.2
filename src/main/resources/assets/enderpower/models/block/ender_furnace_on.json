@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "enderpower:blocks/ender_furnace_top",
+        "front": "enderpower:blocks/ender_furnace_front_on",
+        "side": "enderpower:blocks/ender_furnace_side"
+    }
+}
